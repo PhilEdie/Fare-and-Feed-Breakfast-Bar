@@ -5,7 +5,7 @@ A responsive web page for a local breakfast bar. I developed the website using B
 View:
 https://philedie.com/Fare-and-Feed-Breakfast-Bar/
 
-![FareAndFeed](https://user-images.githubusercontent.com/58746884/153525119-18c2c4bb-b5e2-44af-bea4-1851bdcc0edd.JPG)
+![FareAndFeed](https://user-images.githubusercontent.com/58746884/153695693-5398e9cf-beda-405a-8c89-bce74514e916.JPG)
 
 
 

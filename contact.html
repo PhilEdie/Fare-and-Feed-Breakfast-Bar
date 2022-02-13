@@ -51,9 +51,12 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="container border">
+                        <!-- Dummy Frame is used so that Google Forms page doesn't open on submit. -->
+                        <iframe name="dummyframe" id="dummyframe" style="display: none;"></iframe>
                         <form
                             action="https://docs.google.com/forms/d/e/1FAIpQLSdRjaNukPHhjTNW29esZuC-NFZ2Sei8oRNB2Uguil5HN9ndgA/formResponse"
-                            class="was-validated">
+                            onsubmit="showSubmitConfirmation();" class="was-validated" target="dummyframe"
+                            id="contactform">
                             <div class="mb-3 mt-3">
                                 <label for="entry.2005620554" class="form-label">Name:</label>
                                 <input type="text" class="form-control" id="entry.2005620554" placeholder="Enter name"
